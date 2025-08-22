@@ -1,6 +1,6 @@
 Project details---Deploying Tomcat Web App on AWS
 
-I have deployed a Tomcat web app on AWS in different ways. The way I approached is to use an Amazon EC2 instance and install Tomcat there.
+I have deployed a Tomcat web app on AWS. The way I approached is to use an Amazon EC2 instance and install Tomcat there.
 
 Steps to deploy Tomcat app on AWS EC2:
 
